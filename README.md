@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="180" alt="DiscoverMap Logo">
+  <img src="assets/discovermaplogo.png" width="180" alt="DiscoverMap Logo">
 </p>
 
 <h1 align="center">DiscoverMap</h1>
