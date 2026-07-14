@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="DiscoverMap Logo">
+</p>
+
+<h1 align="center">DiscoverMap</h1>
+
+<p align="center">
+Open Source Social Media Discovery Platform
+</p>
+
 # DiscoverMap
 
 DiscoverMap is an open-source social media discovery platform.
